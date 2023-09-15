@@ -1,0 +1,19 @@
+.title {
+    font-family: Merriweather_Black;
+    font-size: 1.875rem;
+    line-height: 130%;
+    color: #fff;
+}
+
+.title--dark {
+    color: #222f33;
+}
+
+.text {
+    line-height: 185%;
+
+}
+
+.text p:not(:last-child){
+    margin-bottom: 15px;
+}
